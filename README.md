@@ -14,4 +14,9 @@
   - [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 
 - Text Books:
-  - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free samples)`
+  - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
+
+- Interactive:
+  - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser`
+  - [VIM Adventures](https://vim-adventures.com/) `game` `Browser`
+  - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
