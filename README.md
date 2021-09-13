@@ -20,3 +20,4 @@
   - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser`
   - [VIM Adventures](https://vim-adventures.com/) `game` `Browser`
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
+  - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
