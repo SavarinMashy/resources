@@ -17,7 +17,7 @@
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
 
 - Interactive:
-  - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser`
+  - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser` (https://codepip.com/)
   - [VIM Adventures](https://vim-adventures.com/) `game` `Browser`
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
   - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
