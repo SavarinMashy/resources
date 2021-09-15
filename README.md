@@ -18,6 +18,7 @@
   - [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
   - [javidx9](https://www.youtube.com/c/javidx9)
   - [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
+  - [SXSW](https://www.youtube.com/c/SXSW/videos)
 
 - Text Books:
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
@@ -34,3 +35,6 @@
 
 - University:
   - https://web-programming.org/ `UMass Amherst` `Professor Emery Berger`
+
+- Conferences, Symposiums, Seminars:
+  - https://www.youtube.com/watch?v=hcYAHix-riY&ab_channel=GoldenKrishna
