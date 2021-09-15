@@ -21,6 +21,7 @@
   - [VIM Adventures](https://vim-adventures.com/) `game` `Browser`
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
   - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
+  - https://bezier.method.ac/ `design``Browser`
 
 - Alternative:
   - Get live preview of what Emmet commands resolve to on Codepen.io 
