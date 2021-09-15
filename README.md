@@ -22,5 +22,8 @@
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
   - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
 
-- Alternative
+- Alternative:
   - Get live preview of what Emmet commands resolve to on Codepen.io 
+
+- University:
+  - UMass Amherst, Professor - Emery Berger : https://web-programming.org/
