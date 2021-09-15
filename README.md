@@ -29,4 +29,4 @@
   - Get live preview of what Emmet commands resolve to on Codepen.io 
 
 - University:
-  - https://web-programming.org/ `UMass Amherst``Professor Emery Berger`
+  - https://web-programming.org/ `UMass Amherst` `Professor Emery Berger`
