@@ -1,6 +1,10 @@
-- https://www.freecodecamp.org/learn `free`
-- https://www.codecademy.com/ `free`
-- https://codewithmosh.com/ `paid`
+- Websites:
+  - https://www.freecodecamp.org/learn `free`
+  - https://www.codecademy.com/ `free`
+  - https://codewithmosh.com/ `paid`
+
+- Articles:
+  - https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
 
 - Specifications:
   - https://github.github.com/gfm/#links
