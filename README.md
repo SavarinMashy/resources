@@ -11,6 +11,8 @@
 
 - Youtube Channels:
   - [Free Code Camp](https://www.youtube.com/c/Freecodecamp)
+  - [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+  - [javidx9](https://www.youtube.com/c/javidx9)
   - [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
 
 - Text Books:
