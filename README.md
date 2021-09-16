@@ -3,8 +3,9 @@
   - https://www.codecademy.com/ `free`
   - https://codewithmosh.com/ `paid`
 
-- Articles:
+- Articles, Blogs:
   - https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
+  - https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations/
 
 - Specifications:
   - https://github.github.com/gfm/#links
