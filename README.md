@@ -30,6 +30,8 @@
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
   - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
   - https://bezier.method.ac/ `design``Browser`
+  - https://texnique.xyz/ `game` `typesetting` `browser`
+  - https://www.vimgolf.com/
 
 - Alternative:
   - Get live preview of what Emmet commands resolve to on Codepen.io 
