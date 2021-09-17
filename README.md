@@ -41,3 +41,6 @@
 
 - Conferences, Symposiums, Seminars:
   - https://www.youtube.com/watch?v=hcYAHix-riY&ab_channel=GoldenKrishna
+
+- References
+  - [LaTex](https://wch.github.io/latexsheet/latexsheet.pdf)
