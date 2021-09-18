@@ -44,3 +44,6 @@
 
 - References
   - [LaTex](https://wch.github.io/latexsheet/latexsheet.pdf)
+
+- People 
+  - https://davidtheclark.com/about/
