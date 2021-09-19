@@ -47,3 +47,5 @@
 
 - People 
   - https://davidtheclark.com/about/
+  - [Sebastian Flennerhag](http://flennerhag.com/)
+
