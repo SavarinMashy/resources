@@ -10,6 +10,7 @@
 - Specifications:
   - https://github.github.com/gfm/#links
   - https://semver.org/
+  - https://spec.commonmark.org/
 
 - Components:
   - https://www.json.org/json-en.html 
@@ -50,3 +51,5 @@
   - https://davidtheclark.com/about/
   - [Sebastian Flennerhag](http://flennerhag.com/)
 
+- Consortiums and Organizations:
+  - [Internet Engineering Task Force](https://www.ietf.org/)
