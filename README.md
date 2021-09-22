@@ -23,6 +23,7 @@
 
 - Text Books:
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
+  - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
 - Interactive:
   - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser` (https://codepip.com/)
