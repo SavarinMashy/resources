@@ -21,6 +21,7 @@
   - [javidx9](https://www.youtube.com/c/javidx9)
   - [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
   - [SXSW](https://www.youtube.com/c/SXSW/videos)
+  - [Productivity Guru](https://www.youtube.com/c/ProductivityGuru/featured) `Markdown` `Obsidian`
 
 - Text Books:
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
