@@ -1,3 +1,5 @@
+<!-- contents pagination as document grows large, and introduction on how you can leverage the algorithm for relevant pickups by visiting these channels like on youtube instead of having it work against you-->
+
 - Websites:
   - https://www.freecodecamp.org/learn `free`
   - https://www.codecademy.com/ `free`
@@ -22,6 +24,7 @@
   - [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
   - [SXSW](https://www.youtube.com/c/SXSW/videos)
   - [Productivity Guru](https://www.youtube.com/c/ProductivityGuru/featured) `Markdown` `Obsidian`
+  - [Bryan Jenks](https://www.youtube.com/channel/UCfhSB16X9MXhzSFe_H7XbHg)
 
 - Text Books:
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
