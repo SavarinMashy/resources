@@ -57,3 +57,9 @@
 
 - Consortiums and Organizations:
   - [Internet Engineering Task Force](https://www.ietf.org/)
+
+- Tutorials
+  - https://docs.python.org/3/tutorial/
+
+- Problem Sets
+  - https://www.hackinscience.org/exercises/
