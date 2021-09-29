@@ -26,9 +26,10 @@
   - [Productivity Guru](https://www.youtube.com/c/ProductivityGuru/featured) `Markdown` `Obsidian`
   - [Bryan Jenks](https://www.youtube.com/channel/UCfhSB16X9MXhzSFe_H7XbHg)
 
-- Text Books:
+- Books:
   - [Computational Physics by Mark Newman](http://www-personal.umich.edu/~mejn/cp/index.html) `paid (free sample chapters)`
   - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+  - The Tao of tmux: And Terminal Tricks
 
 - Interactive:
   - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser` (https://codepip.com/)
