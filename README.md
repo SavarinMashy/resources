@@ -61,6 +61,7 @@
 
 - Tutorials
   - https://docs.python.org/3/tutorial/
+  - [Vim Tutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
 
 - Problem Sets
   - https://www.hackinscience.org/exercises/
