@@ -35,6 +35,7 @@
 - Interactive:
   - [Flexbox Froggy](https://flexboxfroggy.com/) `game` `Browser` (https://codepip.com/)
   - [VIM Adventures](https://vim-adventures.com/) `game` `Browser`
+  - https://openvim.com/
   - [Oh My Git!](https://ohmygit.org/) `game` `Desktop Application`
   - [Monkeytype](https://monkeytype.com/) `typing` `Browser`
   - https://bezier.method.ac/ `design``Browser`
@@ -66,6 +67,10 @@
   - [Vim Tutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
 
 - Problem Sets
-  - https://www.hackinscience.org/exercises/
+  - [Hackinscience Exercises](https://www.hackinscience.org/exercises/)
+  - [Techiedelight Problems](https://www.techiedelight.com/data-structures-and-algorithms-problems/)
+  - [CSES Problem Set](https://cses.fi/problemset/)
+  - [Leetcode](https://leetcode.com/problemset/all/)
+
 
 
