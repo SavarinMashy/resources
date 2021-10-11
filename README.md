@@ -40,6 +40,7 @@
   - https://bezier.method.ac/ `design``Browser`
   - https://texnique.xyz/ `game` `typesetting` `browser`
   - https://www.vimgolf.com/
+  - https://drawsql.app/
 
 - Alternative:
   - Get live preview of what Emmet commands resolve to on Codepen.io 
@@ -66,3 +67,5 @@
 
 - Problem Sets
   - https://www.hackinscience.org/exercises/
+
+
