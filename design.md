@@ -4,6 +4,8 @@
 - [Landor](https://landor.com/)
 - [Mucho](https://wearemucho.com/)
 
+https://developer.apple.com/sf-symbols/
+
 - Designers:
   - [Paul Rand](https://www.paulrand.design/)  `Modernist`
   - Dieter Rams `Industrial`
