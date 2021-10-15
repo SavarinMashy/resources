@@ -9,6 +9,7 @@
   - https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
   - https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations/
   - https://redd.one/
+  - http://colah.github.io/
 
 - Specifications:
   - https://github.github.com/gfm/#links
