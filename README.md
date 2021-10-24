@@ -4,6 +4,7 @@
   - https://www.freecodecamp.org/learn `free`
   - https://www.codecademy.com/ `free`
   - https://codewithmosh.com/ `paid`
+  - realpython.com
 
 - Articles, Blogs:
   - https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
