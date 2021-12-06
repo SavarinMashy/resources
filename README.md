@@ -1,5 +1,8 @@
 <!-- contents pagination as document grows large, and introduction on how you can leverage the algorithm for relevant pickups by visiting these channels like on youtube instead of having it work against you-->
 
+- Developer Resources:
+  - Example.com https://www.iana.org/domains/reserved
+
 - Websites:
   - https://www.freecodecamp.org/learn `free`
   - https://www.codecademy.com/ `free`
@@ -11,6 +14,7 @@
   - https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations/
   - https://redd.one/
   - http://colah.github.io/
+  - https://blog.codinghorror.com/
 
 - Specifications:
   - https://github.github.com/gfm/#links

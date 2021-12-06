@@ -3,6 +3,7 @@
 - [Pentagram](https://www.pentagram.com/)
 - [Landor](https://landor.com/)
 - [Mucho](https://wearemucho.com/)
+- Pinninfarina
 
 https://developer.apple.com/sf-symbols/
 
