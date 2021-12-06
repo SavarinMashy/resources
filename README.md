@@ -68,6 +68,7 @@
 
 - Consortiums and Organizations:
   - [Internet Engineering Task Force](https://www.ietf.org/)
+  - [FIDO Alliance - authentication](https://fidoalliance.org/)
 
 - Tutorials
   - https://docs.python.org/3/tutorial/
