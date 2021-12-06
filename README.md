@@ -2,6 +2,7 @@
 
 - Developer Resources:
   - Example.com https://www.iana.org/domains/reserved
+  - https://vimawesome.com/
 
 - Websites:
   - https://www.freecodecamp.org/learn `free`
