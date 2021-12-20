@@ -66,7 +66,7 @@
   - https://davidtheclark.com/about/
   - [Sebastian Flennerhag](http://flennerhag.com/)
 
-- Consortiums and Organizations:
+- Consortiums, Organizations, Working-groups:
   - [Internet Engineering Task Force](https://www.ietf.org/)
   - [FIDO Alliance - authentication](https://fidoalliance.org/)
 
