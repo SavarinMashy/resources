@@ -1,5 +1,11 @@
 <!-- contents pagination as document grows large, and introduction on how you can leverage the algorithm for relevant pickups by visiting these channels like on youtube instead of having it work against you-->
 
+<p align = "center">
+  <code>⌘</code> / <code>ctrl</code> + <code>🖱</code> : open link in a new tab<br>
+No explict links in case they are changed.<br>
+To view the whole links, check out the raw markdown.
+</p>
+
 - Developer Resources:
   - Example.com https://www.iana.org/domains/reserved
   - https://vimawesome.com/
