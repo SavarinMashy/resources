@@ -7,7 +7,7 @@ To view the whole links, check out the raw markdown.
 </p>
 
 - Developer Resources:
-  - Example.com https://www.iana.org/domains/reserved
+  - https://www.iana.org/domains/reserved
   - https://vimawesome.com/
   - [The Linux Documentation Project](https://tldp.org/)
 
